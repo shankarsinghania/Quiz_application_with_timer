@@ -1,0 +1,21 @@
+
+who is developed java programming
+(a) james josling
+(b) shankar
+(c) vi
+(d) ama
+which language is used for making app
+(a) java
+(b) c
+(c) cpp
+(d) c#
+which language is best for android application
+(a) c
+(b) cpp
+(c) n
+(d) kotlin
+who is android developer
+(a) c
+(b) cpp
+(c) java
+(d) james josling
